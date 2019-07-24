@@ -7,6 +7,8 @@ To compile this tool you first need to build [librfid](https://github.com/dpavli
 and the makefile contained in this archive into the utils directory of 
 librfid and run: make -f makefile
 
+Use [ndef-tools](https://github.com/crmulliner/ndef-tools) to generate are parse NDEF messages.
+
 Happy hacking. 
 
 Collin <collin[at]mulliner.org>
